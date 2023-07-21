@@ -1,0 +1,15 @@
+{
+    "contact": "",
+    "templates": [
+      {
+        "name": "Barmizva FC",
+        "sources": [
+          "https://cdn.discordapp.com/attachments/1097629551456157797/1132075054100918393/6VSQ9pel_400x400.png"
+        ],
+        "x": 773,
+        "y": 398
+      }
+    ],
+    "whitelist": [],
+    "blacklist": []
+  }
